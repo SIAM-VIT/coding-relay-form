@@ -39,9 +39,9 @@ Key Features:
 
 This project is built using the following technologies and frameworks:
 
-- [NextJS](https://nextjs.org/) (A frameowrk for building user interfaces using ReactJS)
-- [Framer Motion](https://motion.dev/) (A library for creating animations in ReactJS)
-- [Typescript](https://www.typescriptlang.org/) (A typed superset of Javascript that compiles to plain Javascript)
+- [NextJS](https://nextjs.org/) 
+- [Framer Motion](https://motion.dev/) 
+- [Typescript](https://www.typescriptlang.org/)
 
 <!-- GETTING STARTED -->
 
